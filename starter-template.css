@@ -1,0 +1,69 @@
+body {
+  padding-top: 50px;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+.kansas-header {
+    height: 400px;
+    background: url('./images/kansasBG.jpg') center center no-repeat scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+.gonzaga-header {
+    height: 400px;
+    background: url('./images/GonzagaBG.jpg') center center no-repeat scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+.kentucky-header {
+    height: 400px;
+    background: url('./images/kentuckyBG.jpg') center center no-repeat scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    color: #0033a0
+}
+
+.unc-header {
+    height: 400px;
+    background: url('./images/uncBG.jpg') center center no-repeat scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    color: #8bb5e7
+}
+
+.oregon-header {
+    height: 400px;
+    background: url('./images/oregonBG.jpg') center center no-repeat scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    color: #fce012
+}
+
+.sc-header {
+    height: 400px;
+    background: url('./images/scBG.jpg') center center no-repeat scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    color: white
+}
+
+a.nounderline {
+  text-decoration: none;
+}
